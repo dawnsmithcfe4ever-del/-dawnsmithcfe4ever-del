@@ -31,6 +31,10 @@ I am a cybersecurity professional with a CFE, currently training and immersed in
 * **Controls Used:** Linux
 * **Outcome:** Learned commands to interact via terminal.
 
+### 📊 Python Basics https://tryhackme.com/room/pythonbasics?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=697380b71aadacf217fb0a90
+* **The Goal:** learn to write code using a code editor.
+* **Outcome:** Using a web-based code editor, learn the basics of Python and put your knowledge into practice by eventually coding a short Bitcoin investment project.
+
 ---
 
 ## 📉 Growth & Metrics
